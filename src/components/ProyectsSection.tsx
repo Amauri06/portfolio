@@ -14,7 +14,7 @@ const projects = [
   {
     name: "Clon Amazon",
     description:
-      "make your orders as if it were the amazon store online payments among others.",
+      "Make your orders as if it were the amazon store online payments among others.",
     image: "/amazon.png",
     github: "https://github.com/Amauri06/clon-amazon",
     link: "https://clon-amazon.vercel.app/",
@@ -22,16 +22,16 @@ const projects = [
 
   {
     name: "Task List",
-    description: "manage and remember your daily tasks, you can mark as done, delete it, edit it and update it..",
+    description: "Manage and remember your daily tasks, you can mark as done, delete it, edit it and update it..",
     image: "/Task_list.png",
     github: "https://github.com/Amauri06/task_List",
     link: "https://task-list-silk.vercel.app/",
   },
   {
     name: "Portfolio Web",
-    description: "responsive portfolio with bootstrap.",
+    description: "Responsive portfolio with bootstrap.",
     image: "/portafolio.png",
-    github: "https://github.com/Amauri06/my_first_app_nextjs",
+    github: "https://github.com/Amauri06/portfolio-web",
     link: "https://portfolio-web-kappa-ten.vercel.app",
   },
 ];

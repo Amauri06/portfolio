@@ -35,23 +35,15 @@ const AboutSection = () => {
             </h2>
             <p>
               {" "}
-              Hi, my name is Amauri He studied system engineering and
-              self-taught he studied software engineering.
+              Hello there! My name is Amauri. I study system engineering. I consider myself a self-taught person, throughout my career. I have been able to learn knowledge focused on software engineering.
             </p>
             <br />
             <p>
-              I have a wide range of hobbies and passions that keep me busy.
-              From reading, playing video game, watch serie , to see youtube
-              video with relation to new technologies, I like practice exercices
-              in my house, I am always seeking new experiences and love to keep
-              myself engaged and learning new thigs.
+             I have a wide range of hobbies and passions that keep me occupied. Anything from reading, exercising, playing video games to watching documentaries and videos related to new technologies. My days consist of me finding new experiences, keeping myself engaged and learning daily not only technology. 
             </p>
             <br />
             <p>
-              and that&#39;s what I strive to do, I have a passion for
-              technology and a desire to grow every day more in the area. I am
-              excited to see where my career takes me and am always open new
-              opportunities.
+              That&#39;s what I strive for with great desire to grow every day in this technological world.  I&#39;m excited to seek new opportunities and see where my career takes me. 
             </p>
           </div>
           <div className="md:w-1/2  ">
