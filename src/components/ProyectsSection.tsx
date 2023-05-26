@@ -6,7 +6,7 @@ import SlideUp from "./SliceUp";
 const projects = [
   {
     name: "List Expenses",
-    description: "control your daily expenses with this application.",
+    description: "Control your daily monthly expenses, with these applications you will be able to know how much you spend each month and in which services you have more consumption..",
     image: "/list-expenses.png",
     github: "https://github.com/Amauri06/List-Expenses",
     link: "https://app-lista-gastos-fe0ab.web.app",
@@ -22,17 +22,17 @@ const projects = [
 
   {
     name: "Task List",
-    description: "add and delete your daily tasks with this app.",
+    description: "manage and remember your daily tasks, you can mark as done, delete it, edit it and update it..",
     image: "/Task_list.png",
     github: "https://github.com/Amauri06/task_List",
     link: "https://task-list-silk.vercel.app/",
   },
   {
-    name: "My first Nextjs",
-    description: "consuming data with nextjs and using bootstrap.",
-    image: "/first_next.png",
+    name: "Portfolio Web",
+    description: "responsive portfolio with bootstrap.",
+    image: "/portafolio.png",
     github: "https://github.com/Amauri06/my_first_app_nextjs",
-    link: "https://my-first-app-nextjs-omega.vercel.app/",
+    link: "https://portfolio-web-kappa-ten.vercel.app",
   },
 ];
 
