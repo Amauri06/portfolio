@@ -9,7 +9,7 @@ const projects = [
     description: "control your daily expenses with this application.",
     image: "/list-expenses.png",
     github: "https://github.com/Amauri06/List-Expenses",
-    link: "app-lista-gastos-fe0ab.web.app",
+    link: "https://app-lista-gastos-fe0ab.web.app",
   },
   {
     name: "Clon Amazon",
@@ -24,15 +24,15 @@ const projects = [
     name: "Task List",
     description: "add and delete your daily tasks with this app.",
     image: "/Task_list.png",
-    github: "https://github.com/Amauri06/Task-List",
-    link: "",
+    github: "https://github.com/Amauri06/task_List",
+    link: "https://task-list-silk.vercel.app/",
   },
   {
     name: "My first Nextjs",
     description: "consuming data with nextjs and using bootstrap.",
     image: "/first_next.png",
     github: "https://github.com/Amauri06/my_first_app_nextjs",
-    link: "",
+    link: "https://my-first-app-nextjs-omega.vercel.app/",
   },
 ];
 
