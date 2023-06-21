@@ -9,8 +9,8 @@ function HeroSection() {
     <section id="home">
       <div className="flex flex-col text-center items-center justify-center md:my-10 py-16 md:flex-row md:space-x-4 md:text-left md:py-20">
        
-        <div className="bg-gradient-to-b from-teal-500 rounded-full md:mt-2 md:mr-10 h-60 w-60 md:h-80 md:w-80 ">
-          <Image src="/avatar.png" width={300} height={300} alt="img profile" className="mx-auto py-6"  />
+        <div className="md:w-1/2 md:mt-2">
+          <Image src="/amauri2.jpeg" width={300} height={300} alt="img profile" className="rounded-full shadow-2xl"  />
         </div>
 
         <div className="md:mt-2 md:w-3/5">
