@@ -12,10 +12,15 @@ const skills = [
     {skill: "Vite"},
     {skill: "Bostrap"},
     {skill: "Tailwind CSS"},
-    {skill: "Styled Components"},
     {skill: "Git"},
     {skill: "GitHub"},
     {skill: "Firebase"},
+    {skill: "Nodejs"},
+    {skill: "Sql Server"},
+    {skill: "Mongodb"},
+    {skill: "Mysql"}, 
+    {skill: "Chadcn"}, 
+
     
 ]
 

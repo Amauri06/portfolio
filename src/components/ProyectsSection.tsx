@@ -21,6 +21,13 @@ const projects = [
   },
 
   {
+    name: "Spotify 2.0",
+    description: "music application using the shazam api with rapidapi, redux, nextjs and tailwindcss",
+    image: "/spotify2.0.png",
+    github: "https://github.com/Amauri06/spotify2.0",
+    link: "https://spotify2-0-amauri06.vercel.app/",
+  },
+  {
     name: "Task List",
     description: "Manage and remember your daily tasks, you can mark as done, delete it, edit it and update it..",
     image: "/Task_list.png",
@@ -46,7 +53,7 @@ function ProyectsSection() {
         {projects.map((proyect, idx) => (
           <div key={idx}>
             <SlideUp offset="-300px 0px -300px 0px">
-              <div className="flex flex-col md:flex-row md:space-x-12 animate-slideUpCubiBezier animation-delay-2">
+              <div className="flex flex-col md:flex-row md:space-x-12 animate-slideUpCubiBezier animation-delay-2 sl">
                 <div className="md:w-1/2 mt-8">
                   <Link href={proyect.link} target="_blank">
                     <Image
